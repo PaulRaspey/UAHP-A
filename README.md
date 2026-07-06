@@ -1,3 +1,5 @@
+Consolidated into github.com/PaulRaspey/uahp. Archived for history; tags remain browsable.
+
 # UAHP-A: Actuation Handshake Protocol v1.1
 
 **The physical bridge between digital cognition and the real world.**
